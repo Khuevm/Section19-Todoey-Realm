@@ -1,0 +1,10 @@
+Todoey.xcworkspace/xcuserdata/
+Pods/
+*.DS_Store
+Todoey.xcodeproj/xcuserdata/
+build/
+fastlane/report.xml
+*.zip
+*.ipa
+*.dSYM
+*.xcuserstate
